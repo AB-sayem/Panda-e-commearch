@@ -1,0 +1,207 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+
+/* header area start */
+
+.custom-colour {
+    background-color: #dddddd;
+}
+
+
+/* header area end */
+
+
+/* slider part steart */
+
+.slider-bg {
+    background-color: #F4709c;
+    padding: 30px;
+}
+
+.heading-contant h1 {
+    font-weight: bold;
+    font-size: 50px;
+    color: #4b4949;
+}
+
+.heading-contant p {
+    font-size: 16px;
+    ;
+}
+
+.heading-contant h2 {
+    font-weight: bold;
+    color: #FF247A;
+    padding-bottom: 15px;
+}
+
+.btn-custom {
+    background-color: #FF247A !important;
+    color: #ffffff;
+    text-transform: uppercase;
+    padding: 6px 15px;
+}
+
+.btn-custom:hover {
+    color: #ffffff;
+}
+
+
+/* slider part end */
+
+
+/* catagories part start */
+
+.prodect-catagories {
+    padding-top: 40px;
+    padding-left: 32px;
+}
+
+.left-image {
+    background-color: #FEA603;
+    border-image: linear-gradient(#FEA603, #ceccca);
+    border-image-slice: 1;
+    padding: 10px 80px;
+    border-radius: 12px;
+}
+
+.middle-text-left {
+    position: absolute;
+    top: 40px;
+    right: 60px;
+}
+
+.middle-text-left h2 {
+    font-weight: bold;
+    color: #ffffff;
+    font-size: 35px;
+}
+
+.middle-image1 {
+    position: relative;
+    left: 121px;
+    width: 183%;
+}
+
+.middel-text-middel {
+    background-color: #E53280;
+    padding: 10px 80px;
+    border-radius: 12px;
+}
+
+.bage-text {
+    position: absolute;
+    top: 40px;
+    right: 98px;
+}
+
+.bag-image img {
+    width: 99%;
+}
+
+.bage-text h2 {
+    font-weight: bold;
+    color: #ffffff;
+    font-size: 35px;
+}
+
+.bag-image {
+    position: relative;
+    left: 121px;
+    width: 183%;
+}
+
+.middle-text-right {
+    background-color: #372DE0;
+    padding: 10px 80px;
+    padding: 10px 80px;
+    border-radius: 12px;
+}
+
+.shoes-text {
+    position: absolute;
+    top: 40px;
+    right: 60px;
+}
+
+.shoes-text h2 {
+    font-weight: bold;
+    color: #ffffff;
+    font-size: 35px;
+}
+
+.shoes-image {
+    position: relative;
+    left: 121px;
+    width: 183%;
+}
+
+
+/* catagories part end */
+
+
+/* shoes catagories part start */
+
+.shoes-catagories {
+    padding-top: 50px;
+}
+
+.card-body h5 {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.card-body h6 {
+    font-weight: bold;
+    font-size: 22px;
+}
+
+
+/* shoes catagories part end */
+
+
+/* last area start */
+
+.footer-area {
+    padding: 45px;
+    background-color: rgb(182, 83, 149);
+    margin-top: 30px;
+}
+
+.last-area {
+    text-align: center;
+}
+
+.last-area h2 {
+    font-weight: bold;
+    font-size: 27px;
+}
+
+.last-area h5 {
+    font-weight: normal;
+    font-size: 16px;
+}
+
+.last-area input {
+    position: relative;
+    padding: 6px 39px;
+}
+
+.btn-custom2 {
+    padding: 5px 23px;
+    background-color: #FF247A;
+    position: absolute;
+    display: inline-block;
+}
+
+.coperight {
+    text-align: center;
+    color: rgb(180, 177, 177);
+}
